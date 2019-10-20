@@ -43,7 +43,7 @@ class Song
   end
   
   def alphabetical
-    
+    song = self.new
   end
   
 end
