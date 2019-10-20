@@ -42,7 +42,7 @@ class Song
     # find_by_name || create_by_name
   end
   
-  def alphabetical
+  def alphabetical(name)
     song = self.new
     
   end
