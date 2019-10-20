@@ -61,7 +61,7 @@ class Song
     @@all << song
   end
   
-  def self.destory_all
+  def self.destroy_all
     
   end
   
