@@ -43,7 +43,7 @@ class Song
   end
   
   def alphabetical(name)
-  @@all.sort{|song| song.new
+  @@all.sort{|song| song.new == 
   end
   
 end
