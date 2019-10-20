@@ -44,6 +44,7 @@ class Song
   
   def alphabetical
     song = self.new
+    
   end
   
 end
