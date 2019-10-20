@@ -42,7 +42,7 @@ class Song
     # find_by_name || create_by_name
   end
   
-  def alphabetical(name)
+  def alphabetical()
   @@all.sort{|song| song.name == name}
   end
   
