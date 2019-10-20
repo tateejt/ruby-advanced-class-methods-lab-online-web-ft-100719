@@ -43,8 +43,7 @@ class Song
   end
   
   def alphabetical(name)
-    song = self.new
-    
+  @@all.sort{
   end
   
 end
