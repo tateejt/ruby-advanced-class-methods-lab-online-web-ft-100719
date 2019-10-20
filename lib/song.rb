@@ -39,7 +39,7 @@ class Song
     else
       self.create_by_name
     end
-    find_by_name || create_by_name
+    # find_by_name || create_by_name
   end
   
 end
