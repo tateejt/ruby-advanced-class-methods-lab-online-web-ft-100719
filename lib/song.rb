@@ -43,7 +43,7 @@ class Song
   end
   
   def alphabetical()
-  @@all.sort{|song| song.name == name}
+  @@all.sort_by{|song| song.name}
   end
   
 end
